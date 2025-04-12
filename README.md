@@ -1,4 +1,4 @@
-# 🌗 Dual Mode Quiz Portal
+# LeetCode Problems Solution
 
 > A fully responsive, visually elegant, and **theme-switchable quiz platform** with glowing neon dark mode and clean, calm light mode — built with 💖 for developers and learners.
 
