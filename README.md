@@ -11,9 +11,9 @@
 
 ## 🎨 Theme Modes
 
-This portal offers two powerful UI themes:
+This portal offers two powerful UI themes, explore the Developer / Devil Mode:
 
-### 🌞 Light Theme
+### 🌞 Light Theme (Developer Mode)
 - **Primary Background**: `#161E2F`
 - **Secondary Background**: `#242F49`
 - **Card Components**: `#384358`
@@ -25,7 +25,7 @@ This portal offers two powerful UI themes:
   - Hard: `#ef4444`
 - **Text**: White + Gray blend for high readability
 
-### 🌑 Dark Theme (Devil Mode 🦹‍♂️)
+### 🌑 Dark Theme (Devil Mode)
 - **Main BG**: `#000000` (Pure Black)
 - **Card BG**: `#121212`  
 - **Borders**: `#1F1F1F`
@@ -39,7 +39,7 @@ Includes subtle `pulse`, `hover-glow`, and **neon transitions** using TailwindCS
 
 ---
 
-## 🔁 Theme Toggle Feature
+## Theme Toggle Feature
 
 🎛️ A beautiful **toggle switch** allows you to switch between:
 - 👨‍💻 Developer Mode (Light Theme)
@@ -57,7 +57,6 @@ Implemented using `darkMode: 'class'` in TailwindCSS for full control across all
 
 - **TailwindCSS**
 - **HTML5 / CSS3**
-- **Vite + Bolt.new**
 - Custom CSS animations (`@layer utilities`)
 - Mobile-first responsive layout
 
@@ -83,16 +82,6 @@ Crafted quiz questions and logic behind the scenes to power the content engine.
 
 ---
 
-## 🚀 Future Enhancements
-
-- ✅ Question timer
-- ✅ Score system
-- ✅ Leaderboard page
-- ⏳ Add user login with Firebase/Auth.js
-- ⏳ Store progress in localStorage or DB
-
----
-
 ## 📸 Preview Screens
 
 | Light Theme | Dark Theme |
@@ -114,7 +103,6 @@ When learning meets aesthetics — people stay, interact, and **love the experie
 
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourportfolio.site](https://yourportfolio.site)
 
 ---
 
