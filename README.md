@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Live Demo  
+## ✨  Experience it Live
 🚀 [Visit the Website](#) – *Coming Soon on GitHub Pages / Vercel*
 
 ---
